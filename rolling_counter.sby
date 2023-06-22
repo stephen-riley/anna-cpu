@@ -1,0 +1,12 @@
+[options]
+mode cover
+
+[engines]
+smtbmc
+
+[script]
+read -formal rolling_counter.v
+prep -top rolling_counter
+
+[files]
+rolling_counter.v

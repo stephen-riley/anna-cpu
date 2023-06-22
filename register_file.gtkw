@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Mon Jun 19 04:36:05 2023
+[*]
+[dumpfile] "/Users/jsrs701/Projects/anna-cpu/bob.vcd"
+[dumpfile_mtime] "Mon Jun 19 04:35:28 2023"
+[dumpfile_size] 1922
+[savefile] "/Users/jsrs701/Projects/anna-cpu/register_file.gtkw"
+[timestart] 0
+[size] 1630 600
+[pos] -1 -1
+*-3.195040 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 263
+[sst_expanded] 1
+[sst_vpaned_height] 168
+@28
+register_file_tb.clk
+register_file_tb.reset
+register_file_tb.r_en1
+@22
+register_file_tb.addr1[15:0]
+register_file_tb.r_data1[15:0]
+@28
+register_file_tb.r_en2
+@22
+register_file_tb.addr2[15:0]
+register_file_tb.r_data2[15:0]
+@29
+register_file_tb.w_en
+@22
+register_file_tb.w_data[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

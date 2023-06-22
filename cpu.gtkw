@@ -1,0 +1,63 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Tue Jun 20 05:25:59 2023
+[*]
+[dumpfile] "/Users/jsrs701/Projects/anna-cpu/bob.vcd"
+[dumpfile_mtime] "Tue Jun 20 05:25:02 2023"
+[dumpfile_size] 2931
+[savefile] "/Users/jsrs701/Projects/anna-cpu/cpu.gtkw"
+[timestart] 0
+[size] 1497 771
+[pos] -1 -1
+*-4.899055 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[sst_width] 193
+[signals_width] 250
+[sst_expanded] 1
+[sst_vpaned_height] 228
+@28
+cpu_tb.clk
+cpu_tb.reset
+cpu_tb.cpu.cpu_state[2:0]
+@22
+cpu_tb.cpu.imm6[5:0]
+cpu_tb.cpu.imm8[7:0]
+cpu_tb.cpu.instr[15:0]
+cpu_tb.cpu.mem_w_data[15:0]
+@28
+cpu_tb.cpu.mem_w_en
+@22
+cpu_tb.cpu.opcode[3:0]
+cpu_tb.cpu.pc[15:0]
+@28
+cpu_tb.cpu.rd[2:0]
+@22
+cpu_tb.cpu.rd_contents[15:0]
+@28
+cpu_tb.cpu.reg_r1[2:0]
+cpu_tb.cpu.reg_r2[2:0]
+@22
+cpu_tb.cpu.reg_r_data1[15:0]
+cpu_tb.cpu.reg_r_data2[15:0]
+@28
+cpu_tb.cpu.reg_r_en1
+cpu_tb.cpu.reg_r_en2
+@22
+cpu_tb.cpu.reg_w_data[15:0]
+@28
+cpu_tb.cpu.reg_w_en
+cpu_tb.cpu.rs1[2:0]
+@22
+cpu_tb.cpu.rs1_contents[15:0]
+@28
+cpu_tb.cpu.rs2[2:0]
+@22
+cpu_tb.cpu.rs2_contents[15:0]
+@28
+cpu_tb.cpu.mem_r_en
+@22
+cpu_tb.cpu.mem_addr[15:0]
+@23
+cpu_tb.cpu.mem_r_data[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
